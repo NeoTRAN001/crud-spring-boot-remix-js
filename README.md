@@ -17,6 +17,7 @@
     ```
   
 ## Configuración del back
+  - Tener Java 11
   - Tener una base de datos MySQL con el nombre citas. (Si la base de datos tiene password, en el archivo backend/src/main/resources/application.properties se puede configurar)
   - Entrar a la carpeta backend
     ```
