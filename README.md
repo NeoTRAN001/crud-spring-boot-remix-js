@@ -16,3 +16,17 @@
      npm run dev
     ```
   
+## Configuración del back
+  - Tener una base de datos MySQL con el nombre citas. (Si la base de datos tiene password, en el archivo backend/src/main/resources/application.properties se puede configurar)
+  - Entrar a la carpeta backend
+    ```
+     cd backend
+    ```
+  - Levantar el proyecto Windows o Linux/Mac
+    ```
+      .\mvnw.cmd spring-boot:run
+    ```
+    ```
+      ./mvnw spring-boot:run
+    ```
+    
